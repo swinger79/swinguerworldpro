@@ -1,0 +1,7 @@
+{
+  "name": "swinguerworldpro",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Usa: cd apps/web && pnpm dev  o  cd apps/api && pnpm start'"
+  }
+}

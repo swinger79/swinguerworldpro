@@ -1,0 +1,37 @@
+[00:00:00.567] Server  LOG     ✓ Ready in 365ms
+[00:00:06.304] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:00:10.747] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:00:19.757] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:00:20.719] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:00:21.474] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:00:21.702] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Dashboard> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
