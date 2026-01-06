@@ -1,0 +1,12 @@
+[phases.setup]
+cmds = ["npm install"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm start"
+
+[[environment]]
+name = "NODE_ENV"
+value = "production"
