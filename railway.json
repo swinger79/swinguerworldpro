@@ -1,0 +1,3 @@
+{
+  "startCommand": "cd apps/api && node index.js"
+}
